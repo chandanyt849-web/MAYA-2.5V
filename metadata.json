@@ -1,0 +1,9 @@
+{
+  "name": "Maya - Chandan's AI Voice Assistant",
+  "description": "High-knowledge, friendly female voice AI assistant for Chandan with real-time audio-to-audio conversation across desktop and mobile.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
